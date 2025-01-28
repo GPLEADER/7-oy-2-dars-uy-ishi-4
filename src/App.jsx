@@ -1,5 +1,5 @@
 import React from 'react'
-import PlayerListSlice from './components/playersListSlice'
+import PlayerListSlice from './components/PlayersListSlice'
 
 function App() {
   return (
